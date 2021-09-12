@@ -10,6 +10,6 @@ Description: Contains the algorithms for Euclidean and Dijkstra. These are
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/OLGJ/easy_algorithms
-BugReports: https://github.com/OLGJ/easy_algorithms/issues
+URL: https://github.com/OLGJ/easyalgorithms
+BugReports: https://github.com/OLGJ/easyalgorithms/issues
 RoxygenNote: 7.1.1
