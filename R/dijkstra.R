@@ -1,18 +1,14 @@
-# The dijkstra function return the shortest path to every
-# other node from the starting node as a vector.
-#
-# You can learn more about the algorithm at:
-#
-#   https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
-#
-# Input in the function (graph, init_node) must be:
-# - Graph: dataframe & contain columns ("v1", "v2", "w").
-# - init_node: be a numeric scalar.
+#' @title dijkstra
+#' @description See:
+#' # \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}{Dijkstra}
+#' @param graph A datafram containing 3 columns ("v1", "v2", "w").
+#' @param init_node A numeric scalar.
+#'
+#' @return The dijkstra of \code{graph} and \code{init_node}.
+#' @examples
+#' dijkstra(graph, init_node)
 
-#wiki_graph <-
-#  data.frame(v1=c(1,1,1,2,2,2,3,3,3,3,4,4,4,5,5,6,6,6),
-#             v2=c(2,3,6,1,3,4,1,2,4,6,2,3,5,4,6,1,3,5),
-#             w=c(7,9,14,7,10,15,9,10,11,2,15,11,6,6,9,14,2,9))
+
 
 dijkstra <-function(graph, init_node){
 
