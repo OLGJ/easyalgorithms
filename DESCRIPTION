@@ -1,4 +1,4 @@
-Package: lab03
+Package: easyalgorithms
 Type: Package
 Title: Euclidean and Dijkstra algorithm
 Version: 0.1.0
