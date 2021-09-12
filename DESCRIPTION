@@ -4,7 +4,7 @@ Title: Euclidean and Dijkstra algorithm
 Version: 0.1.0
 Author: person("Olof", "Josefsson", email = "olofjosefsson123@gmail.com",
                   role = c("aut", "cre"))
-Maintainer: olofjosefsson123@gmail.com
+Maintainer: Olof Josefsson <olofjosefsson123@gmail.com>
 Description: Contains the algorithms for Euclidean and Dijkstra. These are
     separed into two function.
 License: GPL-3
@@ -12,3 +12,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/OLGJ/easy_algorithms
 BugReports: https://github.com/OLGJ/easy_algorithms/issues
+RoxygenNote: 7.1.1
