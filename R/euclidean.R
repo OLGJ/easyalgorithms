@@ -5,6 +5,8 @@
 #' @param y A numeric input.
 #'
 #' @return The Euclidean of \code{x} and \code{y}.
+#'
+#' @export
 
 
 euclidean <- function(x, y) {

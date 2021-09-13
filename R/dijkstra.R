@@ -5,6 +5,8 @@
 #' @param init_node A numeric scalar.
 #'
 #' @return The dijkstra of \code{graph} and \code{init_node}.
+#'
+#' @export
 
 dijkstra <-function(graph, init_node){
 
