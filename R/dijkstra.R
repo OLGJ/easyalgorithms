@@ -1,14 +1,10 @@
 #' @title dijkstra
 #' @description See:
-#' # \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}{Dijkstra}
+#' # \url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}{Dijkstra}
 #' @param graph A datafram containing 3 columns ("v1", "v2", "w").
 #' @param init_node A numeric scalar.
 #'
 #' @return The dijkstra of \code{graph} and \code{init_node}.
-#' @examples
-#' dijkstra(graph, init_node)
-
-
 
 dijkstra <-function(graph, init_node){
 

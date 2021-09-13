@@ -5,9 +5,7 @@
 #' @param y A numeric input.
 #'
 #' @return The Euclidean of \code{x} and \code{y}.
-#' @examples
-#' euclidean (123612, 13892347912)
-#' euclidean(100, 1000)
+
 
 euclidean <- function(x, y) {
 

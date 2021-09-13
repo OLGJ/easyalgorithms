@@ -15,8 +15,6 @@ dijkstra(graph, init_node)
 The dijkstra of \code{graph} and \code{init_node}.
 }
 \description{
-
-}
-\examples{
-dijkstra(graph, init_node)
+See:
+# \url{https://en.wikipedia.org/wiki/Dijkstra\%27s_algorithm}{Dijkstra}
 }

@@ -13,3 +13,7 @@ LazyData: true
 URL: https://github.com/OLGJ/easyalgorithms
 BugReports: https://github.com/OLGJ/easyalgorithms/issues
 RoxygenNote: 7.1.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

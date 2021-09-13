@@ -17,7 +17,3 @@ The Euclidean of \code{x} and \code{y}.
 \description{
 \url{https://en.wikipedia.org/wiki/Euclidean_algorithm}
 }
-\examples{
-euclidean (123612, 13892347912)
-euclidean(100, 1000)
-}
